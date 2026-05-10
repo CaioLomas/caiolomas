@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**CaioLomas/caiolomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Me chamo Caio Lomas e sou um desenvolvedor estudante de sistemas de informação.
 
-Here are some ideas to get you started:
+Atualmente estudo uma variedade de linguagens, frameworks e tecnologias com foco no backend, mas
+sem dispensar outras camadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conto com 4 anos de experiência em desenvolvimento, uma boa base em algoritmos e estruturas de dados, bancos de dados
+e engenharia de software.
+
+Sou comunicativo e tento levar as coisas com um bom humor, meu objetivo é me aprimorar e aprimorar
+quem quer que esteja trabalhando comigo para poder desenvolver soluções cada vez melhores através
+de código.
+
+#### Minhas redes estão anexadas à esquerda. Email: caio_lomas@outlook.com
+
+<em>"Don't you dare go hollow."</em>
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,spring,postgres,docker,linux)](https://skillicons.dev)
