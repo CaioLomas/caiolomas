@@ -17,4 +17,4 @@ de código.
 <em>"Don't you dare go hollow."</em>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,spring,postgres,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,spring,postgres,docker,linux&size=35)](https://skillicons.dev)
