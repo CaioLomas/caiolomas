@@ -1,6 +1,6 @@
 # Olá 👋
 
-#### Me chamo Caio Lomas e sou um desenvolvedor estudante de sistemas de informação.
+#### Me chamo Caio Lomas e sou um desenvolvedor e estudante de sistemas de informação.
 
 Atualmente estudo uma variedade de linguagens, frameworks e tecnologias com foco no backend, mas
 sem dispensar outras camadas.
