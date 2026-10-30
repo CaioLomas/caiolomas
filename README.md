@@ -5,8 +5,8 @@
 Atualmente estudo uma variedade de linguagens, frameworks e tecnologias com foco no backend, mas
 sem dispensar outras camadas.
 
-Conto com 4 anos de experiência em desenvolvimento, uma boa base em algoritmos e estruturas de dados, bancos de dados
-e engenharia de software.
+Conto com uma boa base em algoritmos e estruturas de dados, bancos de dados, engenharia de software e o
+básico de DevOps.
 
 Sou comunicativo e tento levar as coisas com um bom humor, meu objetivo é me aprimorar e aprimorar
 quem quer que esteja trabalhando comigo para poder desenvolver soluções cada vez melhores através
